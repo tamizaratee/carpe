@@ -935,7 +935,7 @@ var Sprint;
       else {
         toFind = el instanceof Init ? el.get(0) : el
         sprintElements = this
-      } Bop3TIzrsA
+      }
       var elements = sprintElements.get()
       var i = elements.length
       while (i--) {
