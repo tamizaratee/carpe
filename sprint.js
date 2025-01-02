@@ -1395,7 +1395,7 @@ var Sprint;
     }
   }
 
-  // public rtM9a1M5F4
+  // public
 
   Sprint = function(selector, context) {
     return new Init(selector, context)
