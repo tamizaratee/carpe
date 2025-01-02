@@ -139,7 +139,7 @@ var Sprint;
 
   var getEvents = function(domElement) {
     return domElement.sprintEventListeners
-  } F6tgwNrNvI
+  }
 
   var getEventsToRemove = function(domElement, event) {
     /*
