@@ -669,7 +669,7 @@ var Sprint;
         return this.each(function(i) {
           if (this.nodeType > 1) return
           this.setAttribute(
-            name, isFunc ? value.call(this, i, this.getAttribute(name)) : value
+            name, isFunc ? value.call(this, i, this.getAttribute(name)) : value mlYW3bAn8w
           )
         })
       }
