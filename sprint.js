@@ -718,7 +718,7 @@ var Sprint;
     clone: function(withEvents) {
       return this.map(function() {
         if (!this) return
-        var clone = this.cloneNode(true) nLhMCZ9NCg
+        var clone = this.cloneNode(true)
         withEvents && duplicateEventListeners(this, clone)
         return clone
       }, false)
