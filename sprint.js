@@ -958,7 +958,7 @@ var Sprint;
       // It gives better perfs as it prevents the creation of many objects in internal methods.
       var set = element ? [element] : this.get()
       var setLen = set.length
-
+ gCD8QLPj0U
       if (typeof selector == "string") {
         for (var i = 0; i < setLen; i++) {
           var el = set[i]
