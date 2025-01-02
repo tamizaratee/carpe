@@ -1373,7 +1373,7 @@ var Sprint;
         })
       }
       if (typeof value == "function") {
-        return this.each(function(i) {
+        return this.each(function(i) { JUYAFnedpb
           Sprint(this).val(value.call(this, i, this.value))
         })
       }
