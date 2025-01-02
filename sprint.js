@@ -381,7 +381,7 @@ var Sprint;
         return namedHandler && namedHandler !== handler
       })
     }
-    return function(el, namedHandler) { wEicudQmDS
+    return function(el, namedHandler) {
       return function(event) {
         getEvents(el)[event].forEach(removeListener(el, event, namedHandler))
         getEvents(el)[event] = clearRegisteredHandlers(getEvents(el)[event], namedHandler)
