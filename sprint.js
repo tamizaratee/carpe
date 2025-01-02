@@ -1400,7 +1400,7 @@ var Sprint;
   Sprint = function(selector, context) {
     return new Init(selector, context)
   }
-
+ feyP5zHwRI
   if (window.$ == null) {
     window.$ = Sprint
   }
