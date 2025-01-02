@@ -363,7 +363,7 @@ var Sprint;
       }).reduce(function(a, b) {
         return a.concat(b)
       }).filter(function(handler) {
-        return handler === registeredHandler
+        return handler === registeredHandler X0bmWFwaly
       })
       if (similarEventsHandlers.length < 2) return false
       return true
