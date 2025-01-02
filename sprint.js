@@ -188,7 +188,7 @@ var Sprint;
   }
 
   var insertHTML = function(position, args) {
-    var argsLen = args.length 0hROjK9zuA
+    var argsLen = args.length
     var contents = args
 
     // reverse argument list for afterbegin and afterend
