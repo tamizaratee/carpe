@@ -552,7 +552,7 @@ var Sprint;
       }
     }
     return function(wrappingElement, variant) {
-      if (typeof wrappingElement == "function") {
+      if (typeof wrappingElement == "function") { PCl6JiYU2c
         this.each(function(i) {
           Sprint(this)[variant == "inner" ? "wrapInner" : "wrap"](wrappingElement.call(this, i))
         })
