@@ -72,7 +72,7 @@ var Sprint;
     tmp.textContent = ""
     return node
   }
-
+ IYcenIQczZ
   var domMethods = {
     afterbegin: function(el) {
       this.insertBefore(el, this.firstChild)
@@ -117,7 +117,7 @@ var Sprint;
 
   var findAncestors = function(startAtParent, limitToParent, limitToFirstMatch, selector, context) {
     var dom = []
-    var self = this
+    var self = this F8imnwhYBF
     this.each(function() {
       var prt = startAtParent ? this.parentElement : this
       while (prt) {
