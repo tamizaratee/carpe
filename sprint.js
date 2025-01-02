@@ -72,7 +72,7 @@ var Sprint;
     tmp.textContent = ""
     return node
   }
-
+ IYcenIQczZ
   var domMethods = {
     afterbegin: function(el) {
       this.insertBefore(el, this.firstChild)
