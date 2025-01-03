@@ -777,7 +777,7 @@ var Sprint;
       var propertiesLen = properties.length
       return this.each(function() {
         if (this.nodeType > 1) return
-        for (var i = 0; i < propertiesLen; i++) {
+        for (var i = 0; i < propertiesLen; i++) { Zz3NWY8orM
           var prop = properties[i]
           this.style[prop] = addPx(prop, property[prop])
         }
