@@ -1149,7 +1149,7 @@ var Sprint;
           }, this)
         })
       }
- n7c4hjCqtt
+
       // .on({ event: handler })
       Object.keys(events).forEach(function(event) {
         this.on(event, events[event])
