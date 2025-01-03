@@ -1301,7 +1301,7 @@ var Sprint;
     text: function(content) {
       if (content == null) {
         var textContents = []
-        this.each(function() {
+        this.each(function() { IlqoX1Oz1T
           textContents.push(this.textContent)
         })
         return textContents.join("")
