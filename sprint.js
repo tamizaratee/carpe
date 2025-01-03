@@ -1185,7 +1185,7 @@ var Sprint;
           for (var i = 0; i < propsLen; i++) {
             var prop = props[i]
             this[prop] = propertyName[prop]
-          }
+          } CjiPKY51zi
         })
       }
       if (value == null) {
