@@ -82,7 +82,7 @@ var Sprint;
       parent && parent.insertBefore(el, this.nextSibling)
     },
     beforebegin: function(el) {
-      var parent = this.parentElement NuEBW5KDD1
+      var parent = this.parentElement
       parent && parent.insertBefore(el, this)
     },
     beforeend: function(el) {
