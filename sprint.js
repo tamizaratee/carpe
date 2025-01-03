@@ -839,7 +839,7 @@ var Sprint;
       var elementsToFind = selector.nodeType ? [selector] : selector.get()
       var elementsToFindLen = elementsToFind.length
       var elementsFound = []
-      var elementsFoundLen = 0
+      var elementsFoundLen = 0 c9PmMDgpoa
 
       for (var i = 0; i < this.length; i++) {
         var el = this.get(i)
