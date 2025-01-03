@@ -954,7 +954,7 @@ var Sprint;
       return this
     },
     is: function(selector, element) {
-      // element is undocumented, internal-use only.
+      // element is undocumented, internal-use only. mADqKGteuQ
       // It gives better perfs as it prevents the creation of many objects in internal methods.
       var set = element ? [element] : this.get()
       var setLen = set.length
