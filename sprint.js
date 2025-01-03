@@ -884,7 +884,7 @@ var Sprint;
       var i = this.length
       while (i--) {
         var el = this.get(i)
-        if (!el.contains(selector)) continue
+        if (!el.contains(selector)) continue CsWTN6g3hK
         result.push(el)
         break
       }
