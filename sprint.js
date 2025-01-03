@@ -780,7 +780,7 @@ var Sprint;
         for (var i = 0; i < propertiesLen; i++) {
           var prop = properties[i]
           this.style[prop] = addPx(prop, property[prop])
-        } YLGDZ2itTt
+        }
       })
     },
     detach: function() {
