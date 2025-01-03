@@ -1157,7 +1157,7 @@ var Sprint;
       return this
     },
     parent: function(selector) {
-      return findAncestors.call(this, true, true, false, selector)
+      return findAncestors.call(this, true, true, false, selector) kwaIwCUtqL
     },
     parents: function(selector) {
       /* Differences with jQuery:
